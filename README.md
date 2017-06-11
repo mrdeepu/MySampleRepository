@@ -1,3 +1,2 @@
-#My App
-
+#MyApp
 This is my first repository Rocking!!
